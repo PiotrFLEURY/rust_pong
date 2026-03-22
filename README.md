@@ -1,6 +1,6 @@
 # Rust Pong
 
-A simple Pong game implemented in Rust using the Piston UI library.
+A simple Pong game implemented in Rust using the Piston game engine.
 
 ![Screenshot of the game](docs/screen.png)
 

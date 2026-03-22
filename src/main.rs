@@ -192,10 +192,6 @@ impl Game {
         // Score
         digits::draw_digit(self.scores[0], 50.0, 20.0, c, g);
         digits::draw_digit(self.scores[1], WIDTH - 70.0, 20.0, c, g);
-
-        // for i in 0..10 {
-        //     digits::draw_digit(i, 50.0 + i as f64 * 30.0, HEIGHT - 50.0, c, g);
-        // }
     }
 }
 
