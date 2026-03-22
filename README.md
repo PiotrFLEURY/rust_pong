@@ -2,6 +2,8 @@
 
 A simple Pong game implemented in Rust using the Piston UI library.
 
+![Screenshot of the game](docs/screen.png)
+
 ## Installation
 
 To run the game, you need to have Rust installed on your system. You can install Rust using [rustup](https://rustup.rs/).
